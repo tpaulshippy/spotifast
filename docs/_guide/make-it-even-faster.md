@@ -62,7 +62,7 @@ busy, your playlist list comes through it too.
 
 ## Make a Spotify app
 
-1. Open the [Spotify developer dashboard](https://developer.spotify.com/dashboard)
+1. Open the <a href="https://developer.spotify.com/dashboard" target="_blank" rel="noopener noreferrer">Spotify developer dashboard</a>
    and sign in with your Spotify account. Spotify asks that it be a
    Premium account.
 2. Click **Create app**. Any name and description will do; nobody else
